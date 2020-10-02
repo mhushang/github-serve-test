@@ -1,2 +1,0 @@
-(this.webpackJsonparch=this.webpackJsonparch||[]).push([[12],{108:function(t,a,c){"use strict";c.r(a);var n=c(0),s=c.n(n);a.default=function(){return s.a.createElement("div",{className:"Contacts"},"Contacts")}}}]);
-//# sourceMappingURL=12.be98b597.chunk.js.map
