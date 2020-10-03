@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "426558152f41ccb2853661a3138a2c5e",
+    "revision": "fc1cde4882c336eabd14d6405d017f25",
     "url": "/github-serve-test/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-serve-test/static/css/11.9592d665.chunk.css"
   },
   {
-    "revision": "4ebee1ae4dd76ddcba62",
+    "revision": "b5fdee0bf2c6131f9d76",
     "url": "/github-serve-test/static/css/12.28011d3d.chunk.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-serve-test/static/css/9.575d4f1e.chunk.css"
   },
   {
-    "revision": "b150d9a2e4f5af238ba5",
+    "revision": "413d9675b1eff5ca93bd",
     "url": "/github-serve-test/static/css/main.e83f6195.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-serve-test/static/js/11.99f718ae.chunk.js"
   },
   {
-    "revision": "4ebee1ae4dd76ddcba62",
-    "url": "/github-serve-test/static/js/12.1eec2e8c.chunk.js"
+    "revision": "b5fdee0bf2c6131f9d76",
+    "url": "/github-serve-test/static/js/12.d4b64626.chunk.js"
   },
   {
     "revision": "4fa2ef93f39d6297c89b",
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-serve-test/static/js/9.43936a62.chunk.js"
   },
   {
-    "revision": "b150d9a2e4f5af238ba5",
-    "url": "/github-serve-test/static/js/main.9847aff2.chunk.js"
+    "revision": "413d9675b1eff5ca93bd",
+    "url": "/github-serve-test/static/js/main.89ad7474.chunk.js"
   },
   {
-    "revision": "fefd61b55eeab870546b",
-    "url": "/github-serve-test/static/js/runtime-main.63c66947.js"
+    "revision": "ae37f89b004d76ed8e96",
+    "url": "/github-serve-test/static/js/runtime-main.83b83c75.js"
   },
   {
     "revision": "0c41c7ae5cc28a34c9190e94d19bbfba",
